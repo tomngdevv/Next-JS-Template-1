@@ -13,6 +13,7 @@ const NavbarTwoColumns = (props: INavbarProps) => (
       <Link href="/">
         <a>{props.logo}</a>
       </Link>
+      <h2>Smoking Zombies</h2>
     </div>
 
     <nav>
