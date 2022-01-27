@@ -16,7 +16,7 @@ const Logo = () => {
   return (
     <>
       <Image
-        src="/smoking-zombie-logo.png"
+        src="smoking-zombie-logo.png"
         alt="Smoking Zombie Logo"
         width={120}
         height={120}
