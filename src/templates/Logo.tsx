@@ -1,5 +1,3 @@
-import Image from 'next/image';
-
 // import { AppConfig } from '../utils/AppConfig';
 
 // type ILogoProps = {
@@ -15,8 +13,8 @@ const Logo = () => {
 
   return (
     <>
-      <Image
-        src="smoking-zombie-logo.png"
+      <img
+        src="/assets/images/smoking-zombie-logo.png"
         alt="Smoking Zombie Logo"
         width={120}
         height={120}
